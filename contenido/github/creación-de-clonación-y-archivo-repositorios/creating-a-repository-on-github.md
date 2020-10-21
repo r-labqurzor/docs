@@ -4,8 +4,8 @@ intro: 'After you create your repository on {% data variables.product.product_na
 mapTopic: true
 redirect_from:
   - /articles/creating-a-repository-on-github
-versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
+versiones:github.
+  equipo-profesional-libre: ' *'lqrepo
+  servidor empresarial: '*labqurzor
 ---
 
