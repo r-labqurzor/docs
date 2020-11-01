@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenido a Relojerias  Labqurzor
 
 You can use the [editor on GitHub](https://github.com/sky-zadro/docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
